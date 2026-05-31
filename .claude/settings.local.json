@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import fitz; print\\(fitz.__version__\\)\")",
+      "Bash(pdftotext -layout \"C:/Users/Hamza/Downloads/20240026-01-C.pdf\" \"C:/Users/Hamza/Downloads/client prototype/drawing.txt\")",
+      "Bash(pandoc --version)",
+      "PowerShell($edge = \"C:\\\\Program Files \\(x86\\)\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe\"; if \\(-not \\(Test-Path $edge\\)\\) { $edge = \"C:\\\\Program Files\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe\" }; Test-Path $edge)",
+      "Bash(\"/c/Program Files/Google/Chrome/Application/chrome.exe\" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=\"C:\\\\Users\\\\Hamza\\\\Downloads\\\\client prototype\\\\specifications\\\\STRUCTURAL-SPECIFICATION.pdf\" \"file:///C:/Users/Hamza/Downloads/client%20prototype/specifications/STRUCTURAL-SPECIFICATION.html\")",
+      "Bash(npm --version)",
+      "Bash(npm install *)",
+      "Bash(node test-run.js)",
+      "Bash(node server.js)",
+      "Bash(curl -s http://localhost:5174/api/health)",
+      "Bash(curl -s -X POST http://localhost:5174/api/analyze -F drawing=@C:/Users/Hamza/Downloads/20240026-01-C.pdf -F 'specification=@C:/Users/Hamza/Downloads/client prototype/specifications/STRUCTURAL-SPECIFICATION.pdf' -o 'C:/Users/Hamza/Downloads/client prototype/dashboard/_api_response.json' -w 'HTTP %{http_code}, %{size_download} bytes\\\\n')",
+      "Bash(node -e \"const d=require\\('C:/Users/Hamza/Downloads/client prototype/dashboard/_api_response.json'\\); console.log\\('counts:', d.counts\\); console.log\\('compliance:', d.compliancePct + '%'\\); console.log\\('total findings:', d.total\\);\")",
+      "Read(//c/Users/Hamza/Downloads/**)",
+      "Bash(rm -f \"spec-vs-drawing-clash-dashboard.zip\")",
+      "Bash(powershell.exe -NoProfile -Command \"Compress-Archive -Path 'C:\\\\Users\\\\Hamza\\\\Downloads\\\\client prototype\\\\*' -DestinationPath 'C:\\\\Users\\\\Hamza\\\\Downloads\\\\spec-vs-drawing-clash-dashboard.zip' -Force\")"
+    ]
+  }
+}

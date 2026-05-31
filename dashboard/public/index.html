@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spec vs Drawing Clash Dashboard</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<aside class="sidebar">
+  <div class="brand">
+    <div class="logo">CD</div>
+    <div>
+      <div class="brand-name">Clash Dashboard</div>
+      <div class="brand-sub">Spec ⇄ Drawing</div>
+    </div>
+  </div>
+  <nav>
+    <a href="#upload" class="active">▣ &nbsp; Upload</a>
+    <a href="#overview">▢ &nbsp; Overview</a>
+    <a href="#findings">▤ &nbsp; Findings</a>
+    <a href="#extracted">▥ &nbsp; Extracted Data</a>
+  </nav>
+  <div class="side-foot">
+    <div>Project: <strong>2024-0026</strong></div>
+    <div>Engine: rule-based (EN/FR)</div>
+  </div>
+</aside>
+
+<main>
+  <header class="topbar">
+    <div>
+      <h1>Specification vs Drawing Clash Analysis</h1>
+      <p class="muted">Upload a client specification (PDF) and a structural drawing (PDF). The system extracts structural parameters from both, compares them, and reports clashes with suggested resolutions.</p>
+    </div>
+    <div class="status" id="status">Awaiting upload</div>
+  </header>
+
+  <!-- UPLOAD SECTION -->
+  <section id="upload" class="card">
+    <h2>1. Upload documents</h2>
+    <form id="uploadForm" class="upload-grid">
+      <label class="drop">
+        <input type="file" name="specification" accept="application/pdf" required>
+        <div class="drop-inner">
+          <div class="drop-icon">📄</div>
+          <div class="drop-title">Specification PDF</div>
+          <div class="drop-hint">Client / Employer specification document</div>
+          <div class="drop-file" data-target="specification">No file selected</div>
+        </div>
+      </label>
+      <label class="drop">
+        <input type="file" name="drawing" accept="application/pdf" required>
+        <div class="drop-inner">
+          <div class="drop-icon">📐</div>
+          <div class="drop-title">Drawing PDF</div>
+          <div class="drop-hint">Structural / engineering drawing set</div>
+          <div class="drop-file" data-target="drawing">No file selected</div>
+        </div>
+      </label>
+      <button type="submit" class="primary">Analyze →</button>
+    </form>
+    <div id="errorBox" class="error" hidden></div>
+  </section>
+
+  <!-- OVERVIEW SECTION -->
+  <section id="overview" class="card" hidden>
+    <h2>2. Overview</h2>
+    <div class="kpis">
+      <div class="kpi"><div class="kpi-label">Compliance</div><div class="kpi-value" id="kpiCompliance">—</div><div class="kpi-foot" id="kpiComplianceFoot">of all checks</div></div>
+      <div class="kpi kpi-clash"><div class="kpi-label">Clashes</div><div class="kpi-value" id="kpiClashes">—</div><div class="kpi-foot">must resolve</div></div>
+      <div class="kpi kpi-warn"><div class="kpi-label">Marginal</div><div class="kpi-value" id="kpiMarginal">—</div><div class="kpi-foot">borderline values</div></div>
+      <div class="kpi kpi-miss"><div class="kpi-label">Missing items</div><div class="kpi-value" id="kpiMissing">—</div><div class="kpi-foot">spec or drawing silent</div></div>
+      <div class="kpi kpi-ok"><div class="kpi-label">Matches</div><div class="kpi-value" id="kpiMatches">—</div><div class="kpi-foot">aligned</div></div>
+    </div>
+    <div class="chart-grid">
+      <div class="chart-box">
+        <h3>Status breakdown</h3>
+        <canvas id="doughnut"></canvas>
+      </div>
+      <div class="chart-box">
+        <h3>Findings by category</h3>
+        <canvas id="bar"></canvas>
+      </div>
+    </div>
+    <div class="meta-row" id="metaRow"></div>
+  </section>
+
+  <!-- FINDINGS SECTION -->
+  <section id="findings" class="card" hidden>
+    <h2>3. Findings</h2>
+    <div class="filters">
+      <button class="filter-btn active" data-filter="ALL">All</button>
+      <button class="filter-btn" data-filter="CLASH">Clashes</button>
+      <button class="filter-btn" data-filter="MARGINAL">Marginal</button>
+      <button class="filter-btn" data-filter="MISSING_IN_DRAWING">Missing in drawing</button>
+      <button class="filter-btn" data-filter="MISSING_IN_SPEC">Missing in spec</button>
+      <button class="filter-btn" data-filter="MATCH">Matches</button>
+    </div>
+    <div id="findingsList" class="findings-list"></div>
+  </section>
+
+  <!-- EXTRACTED SECTION -->
+  <section id="extracted" class="card" hidden>
+    <h2>4. Raw extracted parameters</h2>
+    <p class="muted">Everything the rule-based parser pulled out of each document. Useful for debugging or for the engineer to verify the parser is reading the documents correctly.</p>
+    <div class="two-col">
+      <div>
+        <h3>From specification</h3>
+        <table class="data-table" id="specTable"><thead><tr><th>Label</th><th>Value</th><th>Unit</th></tr></thead><tbody></tbody></table>
+      </div>
+      <div>
+        <h3>From drawing</h3>
+        <table class="data-table" id="drawTable"><thead><tr><th>Label</th><th>Value</th><th>Unit</th></tr></thead><tbody></tbody></table>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
