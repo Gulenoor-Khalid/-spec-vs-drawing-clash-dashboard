@@ -2,7 +2,7 @@
 
 A real, working analytics dashboard that compares a client **specification PDF** against a structural **drawing PDF**, reports clashes, and suggests fixes.
 
-This is **not a mock** — it actually reads both PDFs, extracts structural parameters with a bilingual (English / French) rule-based parser, and runs a comparator that classifies each finding as MATCH, MARGINAL, CLASH, MISSING-IN-DRAWING or MISSING-IN-SPEC.
+This is **not a mock** — itt actually reads both PDFs, extracts structural parameters with a bilingual (English / French) rule-based parser, and runs a comparator that classifies each finding as MATCH, MARGINAL, CLASH, MISSING-IN-DRAWING or MISSING-IN-SPEC.
 
 ## How it works
 
