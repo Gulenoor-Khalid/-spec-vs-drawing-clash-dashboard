@@ -1,44 +1,44 @@
    Terrain naturel :                                                                                  MAITRE D'OUVRAGE
-   D'après le rapport de sol (au droit des points de sondage),
-   l'altimétrie varie entre les cotes 126,3 NGF et 126,5 NGF,                                       M et Mme BAUMGARTHEN
-   Selon les plans qui nous ont été transmis, le niveau bas                                   Construction d'une maison individuelle
-   du rez-de-chaussée sera calé à la cote 127,10 NGF, soit
+   D'aprÃ¨s le rapport de sol (au droit des points de sondage),
+   l'altimÃ©trie varie entre les cotes 126,3 NGF et 126,5 NGF,                                       M et Mme BAUMGARTHEN
+   Selon les plans qui nous ont Ã©tÃ© transmis, le hniveau bas                                   Construction d'une maison individuelle
+   du rez-de-chaussÃ©e sera calÃ© Ã  la cote 127,10 NGF, soit
    sensiblement au niveau du terrain actuel (cf. plan de masse).                                      BET STRUCTURES
 
    Fondations :                                                                                          FM INGENIEUR CONSEIL
-   Fondation superficielle de type semelle filante ou isolée en                                          9 place kléber, 67000 STRASBOURG
-   respectant                                                                                            contact@fm-i-c.com Tél. : 06.43.58.72.24
+   Fondation superficielle de type semelle filante ou isolÃ©e en                                          9 place klÃ©ber, 67000 STRASBOURG
+   respectant                                                                                            contact@fm-i-c.com TÃ©l. : 06.43.58.72.24
    les conditions suivantes :
    - Ancrage minimal (a) de 0,30 m dans les argiles                               MAITRE D'OEUVRE / ARCHITECTE                                                 BET ELECTRICITE
-   limoneuses naturellement en place et non remaniées.                                                                                                     BUREAU DE CONTROLE
+   limoneuses naturellement en place et non remaniÃ©es.                                                                                                     BUREAU DE CONTROLE
    - Encastrement minimal (D) de 0,9 m de profondeur par                                         AGENCE EK ARCHITECTE
    rapport au niveau du terrain actuel.
    -                                                                                                   11 rue de la Baronne d'Oberkirch, 67000 STRASBOURG
-   Dans ces conditions, la mise hors-gel minimale de 0,9 m par                                          contact@ekarchitecte.com Tél. : 03.88.38.44.60
-   rapport au niveau fini périphérique à la maison sera respectée.
+   Dans ces conditions, la mise hors-gel minimale de 0,9 m par                                          contact@ekarchitecte.com TÃ©l. : 03.88.38.44.60
+   rapport au niveau fini pÃ©riphÃ©rique Ã  la maison sera respectÃ©e.
    q'ELS = 0,18 MPa                                                                               ECONOMISTE
    q'ELU = 0,29 MPa
                                                                                                        PROJET
    Execution : (voir rapport de sol)                                                                 Construction
-   Les sols d'assise sont sensibles à l'eau. Les travaux seront
-   réalisés en dehors des périodes pluvieuses. Les fonds de                                          PLAN STRUCTURE
-   fouille seront immédiatement bétonnés et les plateformes                                          PLAN DE COFFRAGE
-   protégées des intempéries pour éviter le remaniement sur sol
+   Les sols d'assise sont sensibles Ã  l'eau. Les travaux seront
+   rÃ©alisÃ©s en dehors des pÃ©riodes pluvieuses. Les fonds de                                          PLAN STRUCTURE
+   fouille seront immÃ©diatement bÃ©tonnÃ©s et les plateformes                                          PLAN DE COFFRAGE
+   protÃ©gÃ©es des intempÃ©ries pour Ã©viter le remaniement sur sol
    d'assise.                                                                      INDICE      DATE   Objet de la modification
 
-                                                                                     0        10/09/2024 Première diffusion
+                                                                                     0        10/09/2024 PremiÃ¨re diffusion
                                                                                      A
                                                                                      B        24/09/2024 Ajout coupes + Modification hauteur poutres
                                                                                      C
-Remarques :                                                                                   27/09/2024 Ajout/modification coupes + n° poutres/allèges + escalier + acrotères + charges relevé de brique
+Remarques :                                                                                   27/09/2024 Ajout/modification coupes + nÂ° poutres/allÃ¨ges + escalier + acrotÃ¨res + charges relevÃ© de brique
 
--  les côtés sont à vérifier sur base des plans architectes                                   02/10/2024 Ajout 2 CV au R+1
+-  les cÃ´tÃ©s sont Ã  vÃ©rifier sur base des plans architectes                                   02/10/2024 Ajout 2 CV au R+1
 
--  les côtes indiquées dépendantes de l'existant sont à vérifier sur place avant
+-  les cÃ´tes indiquÃ©es dÃ©pendantes de l'existant sont Ã  vÃ©rifier sur place avant
 
-travaux                                                                           N° AFFAIRE  PHASE  N° PLAN                                               ECHELLE  FORMAT  INDICE
+travaux                                                                           NÂ° AFFAIRE  PHASE  NÂ° PLAN                                               ECHELLE  FORMAT  INDICE
 
--  tous les percements sont à vérifier sur base des plans techniques
+-  tous les percements sont Ã  vÃ©rifier sur base des plans techniques
 
                                                                                   2024-0026   EXE    001                                                            A3          C
                                                                                                                                                 1236                                                                                                                                                                        E
@@ -58,13 +58,13 @@ FONDATIONS                                                                      
 
                                                                                                                                     166                                                                                                                                                                                     D
 
-         LÉGENDE                                                                                                                            B                                                                                                                                     SF1
+         LÃ‰GENDE                                                                                                                            B                                                                                                                                     SF1
                                                                                                                                                                                                                                                                                      50x25cm ht
-           Béton armé                                                                                                                                        152015
+           BÃ©ton armÃ©                                                                                                                                        152015
           Impact sup                                                                                                                                                                                        152015
                                                                                                                                                                                                                                50
 SF Semelle Filante     1265                                                          423                                                 SF1                                                                                                                                                                        12.91
-SI Semelle isolée                                                                                                                   50x25cm ht
+SI Semelle isolÃ©e                                                                                                                   50x25cm ht
                                       152015                                                                                                                                                                                                                                      Tirant T1      5.33
                                          50                                                                                              1.01                                                                                                                                        25x25cm ht
                                                                                                                                        140.5
@@ -96,59 +96,59 @@ A                      1                                                        
                                                                  152015
                                                                                   50
 
-                                                                                                                                                BE                                       Affaire n° 20240026                       Plan n° 01                                                                       Ind. C  Page 01
+                                                                                                                                                BE                                       Affaire nÂ° 20240026                       Plan nÂ° 01                                                                       Ind. C  Page 01
                                                                                                                                                                                     1236
 
 PH VIDE SANITAIRE      D                                                                                             695                                                        196                                 541                      432
                                         E
-           Ech:1/25e                                                                         Poutrelle hourdis (niveau brut à définir)                                                 B                                                  A
+           Ech:1/25e                                                                         Poutrelle hourdis (niveau brut Ã  dÃ©finir)                                                 B                                                  A
                                                                                       386.5
-          LÉGENDE                                                                                   Prévoir béton résistant au gel/dégel                                                                     411.5
-                                                                                               ou résine sur le béton (protection du béton)
-         Bloc à bancher                                                                                                                                                                                     3
+          LÃ‰GENDE                                                                                   PrÃ©voir bÃ©ton rÃ©sistant au gel/dÃ©gel                                                                     411.5
+                                                                                               ou rÃ©sine sur le bÃ©ton (protection du bÃ©ton)
+         Bloc Ã  bancher                                                                                                                                                                                     3
                                                                                                                     20
 
-                                                                                                            G = 200 kg/m²
-                                                                                                            Q = 250 kg/m²
+                                                                                                            G = 200 kg/mÂ²
+                                                                                                            Q = 250 kg/mÂ²
 
-                                                                                                 Epaisseur de dalle à confirmer
-                                                                                                        avec le préfabricant
+                                                                                                 Epaisseur de dalle Ã  confirmer
+                                                                                                        avec le prÃ©fabricant
 
                           1265                                                               458                                                                                                                                                        1291
                                         493
                                                                                                                                                1.01                                                                                          533
 
-                                                                                                                        Poutrelle hourdis (niveau brut à définir)
+                                                                                                                        Poutrelle hourdis (niveau brut Ã  dÃ©finir)
 
-                                                                                                                 L'épaisseur du complexe de sol au rez-de-chaussée est de 20cm
+                                                                                                                 L'Ã©paisseur du complexe de sol au rez-de-chaussÃ©e est de 20cm
 
                                                                                                                                                20
 
-                                                                                                                                          G = 200 kg/m²
-                                                                                                                                          Q = 150 kg/m²
+                                                                                                                                          G = 200 kg/mÂ²
+                                                                                                                                          Q = 150 kg/mÂ²
 
-                                                                                                                              Epaisseur de dalle à confirmer
-                                                                                                                                      avec le préfabricant
+                                                                                                                              Epaisseur de dalle Ã  confirmer
+                                                                                                                                      avec le prÃ©fabricant
 
                        C
 
-B                                                                                                      Poutrelle hourdis (niveau brut à définir)
+B                                                                                                      Poutrelle hourdis (niveau brut Ã  dÃ©finir)
 
-                       A  1                                                                  L'épaisseur du complexe de sol au rez-de-chaussée est de 20cm                                                          541                      4
+                       A  1                                                                  L'Ã©paisseur du complexe de sol au rez-de-chaussÃ©e est de 20cm                                                          541                      4
                                         2
-                                                                                                                             20                                                                                            Plan n° 01              326
+                                                                                                                             20                                                                                            Plan nÂ° 01              326
                                                   306
-                                                                                                                       G = 200 kg/m²
-                                                                                                                       Q = 150 kg/m²
-                                                                                                          Epaisseur de dalle à confirmer
-                                                                                                                  avec le préfabricant
+                                                                                                                       G = 200 kg/mÂ²
+                                                                                                                       Q = 150 kg/mÂ²
+                                                                                                          Epaisseur de dalle Ã  confirmer
+                                                                                                                  avec le prÃ©fabricant
 
                                                                                                                             655
                                                                                                                             695
 
                                                                                                                                                                             1236
 
-                                                                                                                                                                                BE        Affaire n° 20240026                                Ind. C           Page 02
+                                                                                                                                                                                BE        Affaire nÂ° 20240026                                Ind. C           Page 02
                                                                                                                                                                                                                                     1236
 
                                                                                                                                               695                                                                                                                                                                541
@@ -157,39 +157,39 @@ B                                                                               
 
                                                                                                                                                                                                    G
 
-                                                                                                     Acrotère périphérique 37 cm
+                                                                                                     AcrotÃ¨re pÃ©riphÃ©rique 37 cm
                                                                                                                                                                                                                                                                    238.5
 
-                                                                           300                                                               Poutrelle hourdis              Côte à confirmer
+                                                                           300                                                               Poutrelle hourdis              CÃ´te Ã  confirmer
                                                                               250
-            PH RDC                                                               Po-3 20 x 46ht (3.00ml)                               Complexe d'étanchéité à définir                                                                                       411.5                                                                                                                   4.32
+            PH RDC                                                               Po-3 20 x 46ht (3.00ml)                               Complexe d'Ã©tanchÃ©itÃ© Ã  dÃ©finir                                                                                       411.5                                                                                                                   4.32
                                                                                                                                                                                                                                                                          89
             Ech:1/25e                                                                                                                                20                                                                                                                      240
 
-                                                                                                                                              G = 200 kg/m²
+                                                                                                                                              G = 200 kg/mÂ²
 
-                                                                                                                                              Q = 100 kg/m²                                                                         Ltu
+                                                                                                                                              Q = 100 kg/mÂ²                                                                         Ltu
 
-                                                                                                                                  Epaisseur de dalle à confirmer
-                                                                                                                                         avec le préfabricant
+                                                                                                                                  Epaisseur de dalle Ã  confirmer
+                                                                                                                                         avec le prÃ©fabricant
 
-                                                                                                                                  Relevé brique à bancher                                                                                                                                                     541104.5
+                                                                                                                                  RelevÃ© brique Ã  bancher                                                                                                                                                     541104.5
                                                                                                                                                                                                                                                                 19.5
-                                                        Acrotère                                                                    Ltu
+                                                        AcrotÃ¨re                                                                    Ltu
 
-            DLÉGENDE                                                       168.5
+            DLÃ‰GENDE                                                       168.5
 
-            Béton armé                                                                                             183.5                                10                                                                                                                   170 Lt4                                  331.5                                              GF R20 TH+
+            BÃ©ton armÃ©                                                                                             183.5                                10                                                                                                                   170 Lt4                                  331.5                                              GF R20 TH+
             Impact sup                                                                                                                                                          9                                                                                            240                                                                                             137.5
-            Agglo à bancher                                                                                                                                                                          8                                                             allège brut = 20 cm
-            Maçonnerie                                                                                                                                                                                                        7
-            Chaînage vertical                                                                                                          90                                   422
+            Agglo Ã  bancher                                                                                                                                                                          8                                                             allÃ¨ge brut = 20 cm
+            MaÃ§onnerie                                                                                                                                                                                                        7
+            ChaÃ®nage vertical                                                                                                          90                                   422
 
                                                                                                                                        210                   16H x 19 cm
 
                                                                                                                                                                                                                                  6
 
-                                                                                       allège = 140 cm                                                   16  15F x 265 cm
+                                                                                       allÃ¨ge = 140 cm                                                   16  15F x 265 cm
                                                                                                                                                          15
                                                                                                                                                          14                                                                      5
                                                                                                                                                          13
@@ -201,16 +201,16 @@ B                                                                               
 
                                                                 513        105.5                                                                                                                                                 1
                                                                      1266
-                                                                                                                                                             100 10 100.5                                                                                                                              636                                                               allège=20 cm brut
+                                                                                                                                                             100 10 100.5                                                                                                                              636                                                               allÃ¨ge=20 cm brut
                                                                                                                                                                                                                                                                                                                                                                             525.5
-                                                                           165  CSP250                                                             Poutrelle hourdis (niveau brut à définir)                                                                                                                                                    Po-5 20 x 46ht (5.25ml)          533
-                                                                                                                                                     10cm pour le complexe de sol du 1er étage 20                                                                                                                                                                                     513
-                                                                              20 Epaisseur de dalle à                                                Zone à hourdis négatif
-                                                                                               confirmer                                                                                        G = 200 kg/m²
-                                                                                                                                                                                                Q = 150 kg/m²
+                                                                           165  CSP250                                                             Poutrelle hourdis (niveau brut Ã  dÃ©finir)                                                                                                                                                    Po-5 20 x 46ht (5.25ml)          533
+                                                                                                                                                     10cm pour le complexe de sol du 1er Ã©tage 20                                                                                                                                                                                     513
+                                                                              20 Epaisseur de dalle Ã                                                 Zone Ã  hourdis nÃ©gatif
+                                                                                               confirmer                                                                                        G = 200 kg/mÂ²
+                                                                                                                                                                                                Q = 150 kg/mÂ²
                                                                                                     F
-                                                                                                                                                                            Epaisseur de dalle à confirmer
-                                                                                            Lt3                                                                                    avec le préfabricant
+                                                                                                                                                                            Epaisseur de dalle Ã  confirmer
+                                                                                            Lt3                                                                                    avec le prÃ©fabricant
 
                                                                                                                                                                               C                                                                                                                                           D            E
 
@@ -221,42 +221,42 @@ B                                                                               
 
             C                                                                                                                                                                                                                       39.5                                  19.5
 
-                                                                                                               90                 206                                       353.5                                                                                                                           CSP       G = 200 kg/m²
-                                                                                                                                                                                                                                                                                                             20       Q = 150 kg/m²
+                                                                                                               90                 206                                       353.5                                                                                                                           CSP       G = 200 kg/mÂ²
+                                                                                                                                                                                                                                                                                                             20       Q = 150 kg/mÂ²
                                                                            20 78                               210                                                                     20 110                                       Po-4 20 x 46ht (2.20ml)                                                                            20 110                                              130
 
-                                                                                                                        Relevé brique à bancher                                                                                                                                                                                                4
+                                                                                                                        RelevÃ© brique Ã  bancher                                                                                                                                                                                                4
 
-                                                                                                                          g = 15 kN/m                                                                                                                              allège=20 cm brut                   Epaisseur de dalle à confirmer
+                                                                                                                          g = 15 kN/m                                                                                                                              allÃ¨ge=20 cm brut                   Epaisseur de dalle Ã  confirmer
 
             B             326                                                                                             q = 8 kN/m
                                           407
-                                                                                                                               Poutrelle hourdis (niveau brut à définir)                                                                                                              220  240                                                                                       326
+                                                                                                                               Poutrelle hourdis (niveau brut Ã  dÃ©finir)                                                                                                              220  240                                                                                       326
 
-                                                                                                                                           Complexe d'étanchéité à définir                                                                                                                             Acrotère
+                                                                                                                                           Complexe d'Ã©tanchÃ©itÃ© Ã  dÃ©finir                                                                                                                             AcrotÃ¨re
 
-                                                                                                              Epaisseur de dalle à confirmer          20                               176                                                                                                                                                                                                 196
-                                                                                                                     avec le préfabricant          655
-                                                                                                                                              G = 200 kg/m²
-                                                                                                          53        180                       Q = 100 kg/m²        180                                                                 116.5                              86.5
+                                                                                                              Epaisseur de dalle Ã  confirmer          20                               176                                                                                                                                                                                                 196
+                                                                                                                     avec le prÃ©fabricant          655
+                                                                                                                                              G = 200 kg/mÂ²
+                                                                                                          53        180                       Q = 100 kg/mÂ²        180                                                                 116.5                              86.5
                                                                                                                                               166                  120 Lt2
-                                                                                                                    120 Lt1                                  allège = 140)                                                          1236
+                                                                                                                    120 Lt1                                  allÃ¨ge = 140)                                                          1236
                                                                                                                                                   675.5
-            A                                                                                                      allège = 140)                                                       20                                                     Affaire n° 20240026
+            A                                                                                                      allÃ¨ge = 140)                                                       20                                                     Affaire nÂ° 20240026
                                            1
 oupe G:                                                   2                                                                                        695                                                                                                       3                                              541
                                                                                                                                                                                                                                                                                                              541
        25e
-                                                                                                                                                                                                                                                                                                                     Plan n° 01
+                                                                                                                                                                                                                                                                                                                     Plan nÂ° 01
                                                                                                                                                                                    BE                                                                                                                                                                                    Ind. C                       Page 03
-                                                                 PH R+1                                                                                                                                              Détail pignon:
+                                                                 PH R+1                                                                                                                                              DÃ©tail pignon:
 
                                                                  Ech:1/25e
 
-                                                                                                                                                                                                                     Chaînage incliné                    Chaînage brique représenté de
-                                                                                                                                                                                                                                                                 manière indicative
+                                                                                                                                                                                                                     ChaÃ®nage inclinÃ©                    ChaÃ®nage brique reprÃ©sentÃ© de
+                                                                                                                                                                                                                                                                 maniÃ¨re indicative
 
-                                                                                                                                                                                                                                                                            Détail appuis
+                                                                                                                                                                                                                                                                            DÃ©tail appuis
                                                                                                                                                                                                                                                                                  poutre
 
                              346.5  80 20 80                     140                                             80             160            80             308
@@ -267,10 +267,10 @@ oupe G:                                                   2                     
 
      231.5
 
-     100    120  all=110 cm                             Plancher bois étudié par le charpentier                                                                            300                                                                NGF 135.5            chaînage
+     100    120  all=110 cm                             Plancher bois Ã©tudiÃ© par le charpentier                                                                            300                                                                NGF 135.5            chaÃ®nage
                                                                                                                                                                               200                                                              H=8,90m           horizontal et
-663                                                                                                           X                                                                   allège brut = 55 cm
-                                                                                                                                                                                            Po-6 20 x 50ht (3.00ml)  Niveau à vérifier avec                         vertical
+663                                                                                                           X                                                                   allÃ¨ge brut = 55 cm
+                                                                                                                                                                                            Po-6 20 x 50ht (3.00ml)  Niveau Ã  vÃ©rifier avec                         vertical
                              F                                                                                                                                                                                             le charpentier
 
      160                                                                                                                                                                                                             NGF 132.56
@@ -292,17 +292,17 @@ oupe G:                                                   2                     
 
                                                                       1334
 
-                                                                                                                                                                                                                     Elévation toiture
+                                                                                                                                                                                                                     ElÃ©vation toiture
 
-                                                                                                                                                                                                                                       LÉGENDE
+                                                                                                                                                                                                                                       LÃ‰GENDE
 
-                                                                                                                                                                                                                                       Béton armé
-                                                                                                                                                                                                                                       Maçonnerie
-                                                                                                                                                                                                                                       Chaînage vertical
+                                                                                                                                                                                                                                       BÃ©ton armÃ©
+                                                                                                                                                                                                                                       MaÃ§onnerie
+                                                                                                                                                                                                                                       ChaÃ®nage vertical
 
-                                                                                                                                                    BE      Affaire n° 20240026                                      Plan n° 01                          Ind. C  Page 04
+                                                                                                                                                    BE      Affaire nÂ° 20240026                                      Plan nÂ° 01                          Ind. C  Page 04
                              Coupe A:                                                                               Coupe B:
-                     Coupe type fondation                                                                        Détail escalier
+                     Coupe type fondation                                                                        DÃ©tail escalier
 
                                  Ech:1/25e                                                                            Ech:1/25e
 
@@ -311,66 +311,66 @@ A DEFINIR                                                             A DEFINIR
 
                                             +126.30m
 
-A DEFINIR                A DEFINIR                                                                               A DEFINIR                                   LÉGENDE
+A DEFINIR                A DEFINIR                                                                               A DEFINIR                                   LÃ‰GENDE
 
-                                    90                                                                                                                       Béton armé
-                                                                                                                                                             Bloc à bancher
-                         10 25                                                                                   10 25                                       Agglo à bancher
-                                                                                                                                                             Maçonnerie
-                                                                      Coupe C:                                                                               Béton de propreté
+                                    90                                                                                                                       BÃ©ton armÃ©
+                                                                                                                                                             Bloc Ã  bancher
+                         10 25                                                                                   10 25                                       Agglo Ã  bancher
+                                                                                                                                                             MaÃ§onnerie
+                                                                      Coupe C:                                                                               BÃ©ton de propretÃ©
 
                                                                        Ech:1/25e                                                                             Plancher poutrelle
                                                                                                                                                                     hourdis
-                                                                                              Appuis de fenêtre
+                                                                                              Appuis de fenÃªtre
                                                                                                  (voir CCTP)
 
-                                    Acrotère en agglo à
+                                    AcrotÃ¨re en agglo Ã 
                                            bancher
 
-                                                  40cm pour 2 rangée
+                                                  40cm pour 2 rangÃ©e
                                                            d'agglo?
-                         56 37                                        Relevé en agglo à
+                         56 37                                        RelevÃ© en agglo Ã 
                                                 110                         bancher
 
                                                                           40
 
                      20             176                               20 110 20
 
-                                                                                                                                    BE  Affaire n° 20240026  Plan n° 01  Ind. C  Page 05
+                                                                                                                                    BE  Affaire nÂ° 20240026  Plan nÂ° 01  Ind. C  Page 05
  Coupe D:                                 Coupe E:
 
   Ech:1/25e                                Ech:1/25e
 
-Appuis de fenêtre
+Appuis de fenÃªtre
 
-                 Hourdis négatif
+                 Hourdis nÃ©gatif
 110
                          56
                                                                             56
-                                                                        Hourdis négatif
-20 110 20                                                                                                         LÉGENDE
+                                                                        Hourdis nÃ©gatif
+20 110 20                                                                                                         LÃ‰GENDE
                                           20 110 20
-             Coupe F:                                                                                             Béton armé
-                                                         Coupe G:                                                 Bloc à bancher
-                 Ech:1/25e                                                                                        Agglo à bancher
-                                                               Ech:1/25e                                          Maçonnerie
-                       Appuis de fenêtre                                                                          Béton de propreté
-                           (voir CCTP)                             Acrotère en agglo à
+             Coupe F:                                                                                             BÃ©ton armÃ©
+                                                         Coupe G:                                                 Bloc Ã  bancher
+                 Ech:1/25e                                                                                        Agglo Ã  bancher
+                                                               Ech:1/25e                                          MaÃ§onnerie
+                       Appuis de fenÃªtre                                                                          BÃ©ton de propretÃ©
+                           (voir CCTP)                             AcrotÃ¨re en agglo Ã 
                                                                            bancher                                Plancher poutrelle
                                                                                                                          hourdis
-                                               40cm pour 2 rangée
+                                               40cm pour 2 rangÃ©e
                                                         d'agglo?
 110
-Hourdis négatif                       25 41
+Hourdis nÃ©gatif                       25 41
 
                                                                               37
-Variante en béton
-possible (prévoir  20                                                                    20
+Variante en bÃ©ton
+possible (prÃ©voir  20                                                                    20
 
   attente le cas
-     échéant)
+     Ã©chÃ©ant)
 
 20 78
 
-                                                                                         BE  Affaire n° 20240026  Plan n° 01  Ind. C  Page 06
+                                                                                         BE  Affaire nÂ° 20240026  Plan nÂ° 01  Ind. C  Page 06
 
